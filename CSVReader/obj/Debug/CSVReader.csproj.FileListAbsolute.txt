@@ -1,0 +1,12 @@
+c:\users\scopaul\documents\visual studio 2012\Projects\CSVReader\CSVReader\bin\Debug\CSVReader.exe.config
+c:\users\scopaul\documents\visual studio 2012\Projects\CSVReader\CSVReader\bin\Debug\CSVReader.exe
+c:\users\scopaul\documents\visual studio 2012\Projects\CSVReader\CSVReader\bin\Debug\CSVReader.pdb
+c:\users\scopaul\documents\visual studio 2012\Projects\CSVReader\CSVReader\obj\Debug\CSVReader.csprojResolveAssemblyReference.cache
+c:\users\scopaul\documents\visual studio 2012\Projects\CSVReader\CSVReader\obj\Debug\CSVReader.Form1.resources
+c:\users\scopaul\documents\visual studio 2012\Projects\CSVReader\CSVReader\obj\Debug\CSVReader.Properties.Resources.resources
+c:\users\scopaul\documents\visual studio 2012\Projects\CSVReader\CSVReader\obj\Debug\CSVReader.csproj.GenerateResource.Cache
+c:\users\scopaul\documents\visual studio 2012\Projects\CSVReader\CSVReader\obj\Debug\CSVReader.exe
+c:\users\scopaul\documents\visual studio 2012\Projects\CSVReader\CSVReader\obj\Debug\CSVReader.pdb
+C:\Users\scopaul\documents\visual studio 2012\Projects\CSVReader\CSVReader\obj\Debug\CSVReader.AboutBox1.resources
+C:\Users\scopaul\Documents\Visual Studio 2012\Projects\CSVReader\CSVReader\bin\Debug\log4net.dll
+C:\Users\scopaul\Documents\Visual Studio 2012\Projects\CSVReader\CSVReader\bin\Debug\log4net.xml

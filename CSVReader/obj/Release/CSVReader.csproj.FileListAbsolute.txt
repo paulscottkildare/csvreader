@@ -1,0 +1,10 @@
+c:\Users\scopaul\Documents\Visual Studio 2012\Projects\CSVReader\CSVReader\bin\Release\CSVReader.exe.config
+c:\Users\scopaul\Documents\Visual Studio 2012\Projects\CSVReader\CSVReader\bin\Release\CSVReader.exe
+c:\Users\scopaul\Documents\Visual Studio 2012\Projects\CSVReader\CSVReader\bin\Release\CSVReader.pdb
+c:\Users\scopaul\Documents\Visual Studio 2012\Projects\CSVReader\CSVReader\obj\Release\CSVReader.Form1.resources
+c:\Users\scopaul\Documents\Visual Studio 2012\Projects\CSVReader\CSVReader\obj\Release\CSVReader.Properties.Resources.resources
+c:\Users\scopaul\Documents\Visual Studio 2012\Projects\CSVReader\CSVReader\obj\Release\CSVReader.csproj.GenerateResource.Cache
+c:\Users\scopaul\Documents\Visual Studio 2012\Projects\CSVReader\CSVReader\obj\Release\CSVReader.exe
+c:\Users\scopaul\Documents\Visual Studio 2012\Projects\CSVReader\CSVReader\obj\Release\CSVReader.pdb
+c:\Users\scopaul\Documents\Visual Studio 2012\Projects\CSVReader\CSVReader\obj\Release\CSVReader.AboutBox1.resources
+C:\Users\scopaul\documents\visual studio 2012\Projects\CSVReader\CSVReader\obj\Release\CSVReader.csprojResolveAssemblyReference.cache

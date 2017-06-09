@@ -1,0 +1,96 @@
+2017-05-30 11:33:42,541 CSVReader.Form1.populateGrid [79] INFO  - Log entry 
+  
+2017-05-30 11:35:13,228 CSVReader.Form1.toolStripButton3_Click [100] INFO  - Log entry 
+  
+2017-05-30 11:35:34,132 CSVReader.Form1.populateGrid [78] INFO  - Log entry 
+  
+2017-05-30 11:35:45,584 CSVReader.Form1.populateGrid [78] INFO  - Log entry 
+  
+2017-05-30 11:35:52,051 CSVReader.Form1.toolStripButton3_Click [99] INFO  - Log entry 
+  
+2017-05-30 11:42:37,557 CSVReader.Form1.populateGrid [78] INFO  - Log entry 
+  
+2017-05-30 11:43:14,728 CSVReader.Form1.populateGrid [78] INFO  - Log entry 
+  
+2017-05-30 11:43:20,422 CSVReader.Form1.toolStripButton3_Click [99] INFO  - Log entry 
+  
+2017-05-30 11:48:39,290 CSVReader.Form1.populateGrid [78] INFO  - Log entry 
+  
+2017-05-30 11:48:55,894 CSVReader.Form1.populateGrid [78] INFO  - Log entry 
+  
+2017-05-30 11:49:10,817 CSVReader.Form1.populateGrid [78] INFO  - Log entry 
+  
+2017-05-30 11:49:17,366 CSVReader.Form1.populateGrid [78] INFO  - Log entry 
+  
+2017-05-30 11:49:25,751 CSVReader.Form1.populateGrid [78] INFO  - Log entry 
+  
+2017-05-30 11:49:40,362 CSVReader.Form1.populateGrid [78] INFO  - Log entry 
+  
+2017-05-30 11:49:50,251 CSVReader.Form1.populateGrid [78] INFO  - Log entry 
+  
+2017-05-30 11:50:28,262 CSVReader.Form1.populateGrid [78] INFO  - Log entry 
+  
+2017-05-30 11:50:34,895 CSVReader.Form1.populateGrid [78] INFO  - Log entry 
+  
+2017-05-30 11:50:38,323 CSVReader.Form1.populateGrid [78] INFO  - Log entry 
+  
+2017-05-30 11:50:41,359 CSVReader.Form1.populateGrid [78] INFO  - Log entry 
+  
+2017-05-30 11:50:44,057 CSVReader.Form1.closeButton_Click [99] INFO  - Log entry 
+  
+2017-05-30 12:44:31,647 CSVReader.Form1.populateGrid [70] INFO  - Log entry 
+  
+2017-05-30 12:46:16,979 CSVReader.Form1.populateGrid [70] INFO  - Log entry 
+  
+2017-05-30 12:46:25,360 CSVReader.Form1.populateGrid [70] INFO  - Log entry 
+  
+2017-05-30 12:46:29,308 CSVReader.Form1.populateGrid [70] INFO  - Log entry 
+  
+2017-05-30 12:46:31,416 CSVReader.Form1.closeButton_Click [91] INFO  - Log entry 
+  
+2017-05-30 12:46:31,573 CSVReader.Form1.populateGrid [70] INFO  - Log entry 
+  
+2017-05-30 12:48:36,677 CSVReader.Form1.populateGrid [70] INFO  - Log entry 
+  
+2017-05-30 12:48:47,325 CSVReader.Form1.populateGrid [70] INFO  - Log entry 
+  
+2017-05-30 12:49:19,951 CSVReader.Form1.populateGrid [70] INFO  - Log entry 
+  
+2017-05-30 13:01:55,500 CSVReader.Form1.populateGrid [71] INFO  - Log entry 
+  
+2017-05-30 13:07:59,528 CSVReader.Form1.populateGrid [71] INFO  - Log entry 
+  
+2017-05-30 13:08:02,320 CSVReader.Form1.closeButton_Click [92] INFO  - Log entry 
+  
+2017-05-30 13:17:27,245 CSVReader.Form1.populateGrid [71] INFO  - Log entry 
+  
+2017-05-30 13:18:05,140 CSVReader.Form1.populateGrid [71] INFO  - Log entry 
+  
+2017-05-30 13:18:13,490 CSVReader.Form1.closeButton_Click [93] INFO  - Log entry 
+  
+2017-05-30 13:18:22,811 CSVReader.Form1.populateGrid [71] INFO  - Log entry 
+  
+2017-05-30 13:22:47,461 CSVReader.Form1.populateGrid [71] INFO  - Log entry 
+  
+2017-05-30 13:23:52,921 CSVReader.Form1.populateGrid [71] INFO  - Log entry 
+  
+2017-05-30 13:25:04,467 CSVReader.Form1.populateGrid [71] INFO  - Log entry 
+  
+2017-05-30 13:25:36,880 CSVReader.Form1.populateGrid [71] INFO  - Log entry 
+  
+2017-05-30 13:25:45,289 CSVReader.Form1.populateGrid [71] INFO  - Log entry 
+  
+2017-05-30 13:25:48,835 CSVReader.Form1.populateGrid [71] INFO  - Log entry 
+  
+2017-05-30 13:25:50,605 CSVReader.Form1.closeButton_Click [93] INFO  - Log entry 
+  
+2017-05-30 13:25:54,674 CSVReader.Form1.populateGrid [71] INFO  - Log entry 
+  
+2017-05-30 13:29:03,594 CSVReader.Form1.populateGrid [71] INFO  - Log entry 
+  
+2017-05-30 13:29:16,725 CSVReader.Form1.populateGrid [71] INFO  - Log entry 
+  
+2017-05-30 13:30:47,222 CSVReader.Form1.populateGrid [71] INFO  - Log entry 
+  
+2017-05-30 13:30:48,667 CSVReader.Form1.closeButton_Click [92] INFO  - Log entry 
+  

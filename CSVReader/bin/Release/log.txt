@@ -1,0 +1,6 @@
+2017-06-01 11:04:05,108 CSVReader.Form1.populateGrid [74] INFO  - Log entry 
+  
+2017-06-01 11:49:46,593 CSVReader.Form1.populateGrid [74] INFO  - Log entry 
+  
+2017-06-01 12:52:54,052 CSVReader.Form1.closeButton_Click [95] INFO  - Log entry 
+  
